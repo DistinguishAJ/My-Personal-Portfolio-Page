@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main-header{
+    background-color: white;
+    color: rgb(104, 1, 57);
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+    overflow: hidden;
+}
+
